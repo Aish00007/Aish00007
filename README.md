@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Aishwary  <br><br>I’m a tech enthusiast who loves learning and building projects.<br><br>- 🔹 Skills: Python, HTML, CSS, JavaScript  <br>- 🔹 Interests: Web Development, AI, Automation  <br>- 🔹 Goal: Become a skilled software developer  <br><br>Currently learning, experimenting, and growing every day 🚀<br>
+Hi 👋 I'm Aishwarya Nigam  <br><br>I’m a tech enthusiast who loves learning and building projects.<br><br>- 🔹 Skills: Python, HTML, CSS, JavaScript  <br>- 🔹 Interests: Web Development, AI, Automation  <br>- 🔹 Goal: Become a skilled software developer  <br><br>Currently learning, experimenting, and growing every day 🚀<br>
 
 
 ## 🌐 Socials:
